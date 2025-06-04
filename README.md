@@ -30,49 +30,37 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-###
-
 <p align="left">
-  I'm Priyanshu Dey, a passionate developer from India.<br><br>
-  - 🔭 I’m currently working on exciting projects that blend innovation and technology.<br>
-  - 📚 I'm currently learning advanced concepts in software development and exploring new technologies.<br>
-  - ⚡ In my free time, I enjoy contributing to open-source projects and expanding my skill set.
+  I'm Priyanshu Dey, a passionate software developer from India.<br><br>
+  - 🔭 I’m currently working on exciting backend and full-stack projects<br>
+  - 📚 I'm learning deeper system design, databases, and DevOps practices<br>
+  - ⚡ I enjoy contributing to open-source and building impactful tools
 </p>
 
 ###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="Ruby logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="CircleCI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
 </div>
 
 ###
 
 <h3 align="left">🔥 My Stats</h3>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jazzyjeet16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak stats" />
 </div>
-
-###
